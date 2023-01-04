@@ -1,6 +1,24 @@
 .video{
     text-align: center;
 }
+.jamal{
+   background-color: aqua;
+   width: 50%;
+   padding: 5px 15px 10px 30px;
+}
+.chapun{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
 label{
     display: block;
     margin-bottom: 10px;
